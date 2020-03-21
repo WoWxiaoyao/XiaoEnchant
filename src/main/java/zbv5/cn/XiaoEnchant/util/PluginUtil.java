@@ -9,6 +9,13 @@ public class PluginUtil
     public static void LoadPlugin()
     {
         PrintUtil.PrintConsole("&e======== &bXiaoEnchant &e> &d开始加载 &e========",false);
+        if(Main.getInstance().getServer().getPluginManager().getPlugin("EconomyAPI") != null)
+        {
+            PrintUtil.PrintConsole("&a&l√ &e检测到前置插件 EconomyAPI",false);
+            Main.EconomyAPI = true;
+        } else {
+            PrintUtil.PrintConsole("&c&l× &e未检测到前置插件 EconomyAPI 强化功能禁用",false);
+        }
         FileUtil.LoadFile();
         Lang.LoadLang();
         Main.getInstance().getServer().getPluginManager().registerEvents(new PlayerListener(), Main.getInstance());

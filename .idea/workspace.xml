@@ -6,7 +6,23 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84026ee6-7009-473e-9619-e806a3327a38" name="Default Changelist" comment="" />
+    <list default="true" id="84026ee6-7009-473e-9619-e806a3327a38" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zbv5/cn/XiaoEnchant/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zbv5/cn/XiaoEnchant/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zbv5/cn/XiaoEnchant/lang/Lang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zbv5/cn/XiaoEnchant/lang/Lang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zbv5/cn/XiaoEnchant/listener/PlayerListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zbv5/cn/XiaoEnchant/listener/PlayerListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zbv5/cn/XiaoEnchant/util/EnchUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zbv5/cn/XiaoEnchant/util/EnchUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zbv5/cn/XiaoEnchant/util/FileUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zbv5/cn/XiaoEnchant/util/FileUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zbv5/cn/XiaoEnchant/util/PluginUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zbv5/cn/XiaoEnchant/util/PluginUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zbv5/cn/XiaoEnchant/util/PrintUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zbv5/cn/XiaoEnchant/util/PrintUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zbv5/cn/XiaoEnchant/windows/setWindows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zbv5/cn/XiaoEnchant/windows/setWindows.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/lang.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/lang.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lang.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lang.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/plugin.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +35,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YnkVJfad4MEWdwqO2CPpblDb9G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,14 +51,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/新建文件夹 (2)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EconomyAPI.jar!/" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="Errors" />
@@ -73,7 +95,15 @@
       <updated>1583585767217</updated>
       <workItem from="1583585768785" duration="10403000" />
       <workItem from="1583650146441" duration="6753000" />
-      <workItem from="1583666567528" duration="9268000" />
+      <workItem from="1583666567528" duration="9981000" />
+      <workItem from="1583714324213" duration="8000" />
+      <workItem from="1584458439804" duration="1675000" />
+      <workItem from="1584496039406" duration="17620000" />
+      <workItem from="1584604600344" duration="10517000" />
+      <workItem from="1584688971164" duration="635000" />
+      <workItem from="1584712137026" duration="8005000" />
+      <workItem from="1584760265609" duration="22281000" />
+      <workItem from="1584805983819" duration="293000" />
     </task>
     <servers />
   </component>
@@ -81,10 +111,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="655" y="328" key="FileChooserDialogImpl" timestamp="1583666445442">
+    <state x="655" y="328" key="FileChooserDialogImpl" timestamp="1584717967772">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="655" y="328" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583666445442" />
+    <state x="655" y="328" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584717967772" />
     <state width="1877" height="261" key="GridCell.Tab.0.bottom" timestamp="1583599514219">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -101,9 +131,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="261" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583599514219" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1583652193312">
+    <state x="461" y="162" key="SettingsEditor" timestamp="1584717976671">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583652193312" />
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584717976671" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1584805410014">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584805410014" />
   </component>
 </project>
